@@ -1,0 +1,4 @@
+knightcoin
+==========
+
+Knights Templar Cryptocurrency 
